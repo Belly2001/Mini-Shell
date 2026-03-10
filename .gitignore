@@ -1,0 +1,10 @@
+# Executable
+minishell
+
+# Fichiers objets
+*.o
+
+# Fichiers temporaires
+*~
+*.swp
+.DS_Store
